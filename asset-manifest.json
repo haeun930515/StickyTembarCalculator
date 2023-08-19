@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/StickyTembarCalculator/static/css/main.66b1691b.css",
-    "main.js": "/StickyTembarCalculator/static/js/main.fdcf8d01.js",
+    "main.js": "/StickyTembarCalculator/static/js/main.57596f78.js",
     "static/js/787.0368f5f4.chunk.js": "/StickyTembarCalculator/static/js/787.0368f5f4.chunk.js",
     "static/media/tree-background.jpg": "/StickyTembarCalculator/static/media/tree-background.027b9577504b7b3171e4.jpg",
     "static/media/nothing-logo-sqare.png": "/StickyTembarCalculator/static/media/nothing-logo-sqare.3efcfe92fa0607a0d36e.png",
@@ -10,11 +10,11 @@
     "static/media/ohuse_logo.jpeg": "/StickyTembarCalculator/static/media/ohuse_logo.73779cf7e501e2df62bc.jpeg",
     "index.html": "/StickyTembarCalculator/index.html",
     "main.66b1691b.css.map": "/StickyTembarCalculator/static/css/main.66b1691b.css.map",
-    "main.fdcf8d01.js.map": "/StickyTembarCalculator/static/js/main.fdcf8d01.js.map",
+    "main.57596f78.js.map": "/StickyTembarCalculator/static/js/main.57596f78.js.map",
     "787.0368f5f4.chunk.js.map": "/StickyTembarCalculator/static/js/787.0368f5f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66b1691b.css",
-    "static/js/main.fdcf8d01.js"
+    "static/js/main.57596f78.js"
   ]
 }
